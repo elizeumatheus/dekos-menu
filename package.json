@@ -11,16 +11,22 @@
     "gatsby-plugin-manifest": "^2.12.1",
     "gatsby-plugin-offline": "^3.10.2",
     "gatsby-plugin-react-helmet": "^3.10.0",
+    "gatsby-plugin-root-import": "^2.0.6",
     "gatsby-plugin-sharp": "^2.14.3",
+    "gatsby-plugin-styled-components": "^3.10.0",
+    "gatsby-plugin-typescript": "^2.12.1",
     "gatsby-source-filesystem": "^2.11.1",
     "gatsby-transformer-sharp": "^2.12.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "styled-components": "^5.2.1"
   },
   "devDependencies": {
-    "prettier": "2.2.1"
+    "@types/styled-components": "^5.1.7",
+    "prettier": "^2.2.1",
+    "typescript": "^4.2.2"
   },
   "keywords": [
     "gatsby"
